@@ -1,7 +1,3 @@
-streamlit>=1.32.0
-pandas>=2.2.0
-openpyxl>=3.1.2
-numpy>=1.26.0
 
 import math
 from datetime import timedelta
